@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "151890689318",
+    "firebase_url": "https://nzta-8ad03.firebaseio.com",
+    "project_id": "nzta-8ad03",
+    "storage_bucket": "nzta-8ad03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151890689318:android:abec58a7ee409e51fad5e7",
+        "android_client_info": {
+          "package_name": "com.telugu.nzta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151890689318-2je38r6a0gv87d4hihc9aevkluk08m5q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.telugu.nzta",
+            "certificate_hash": "fb4df7b9a125dc7619b7c775cf4e35731fa18ab6"
+          }
+        },
+        {
+          "client_id": "151890689318-qdthpq5dnb72jer0e3nl75gpf8q6eu4b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ6Ht7KXW08gfn2c-6vHvSE7rtRqE8ZaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "151890689318-qdthpq5dnb72jer0e3nl75gpf8q6eu4b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
